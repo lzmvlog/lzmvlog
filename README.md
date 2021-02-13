@@ -1,5 +1,9 @@
-### Hi there 👋
+### 
+<p><img align="left" height="180" width="400" style="display: inline-block; "
+        src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+</p><br/>
 
+### Hi there 👋
 - 🔭 I’m currently working on Vert.x
 - 🌱 I’m currently learning Vert.x
 - 👯 I’m looking to collaborate on ...
